@@ -29,7 +29,7 @@ informacion_personal= {
 informacion_personal ["ciudad"]= "Quito"
 
 #Agregar una nueva clave-valor al diccionario para la "profesion"
-informacion_personal ["profesion"]= ("Ingeniero Civil")
+informacion_personal ["profesion"]= ("Ingeniería Civil")
 
 # Verificar si la clave "telefono" existe en el diccionario, si no, se agraga
 if "numero telefonico" not in informacion_personal:
